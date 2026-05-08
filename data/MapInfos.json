@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":false,"name":"Swamp","order":4,"parentId":0,"scrollX":1061.142857142857,"scrollY":1124.5714285714284},
+{"id":2,"expanded":true,"name":"The Forest","order":1,"parentId":0,"scrollX":1061.142857142857,"scrollY":809.1428571428571},
+{"id":3,"expanded":false,"name":"The Ruins","order":3,"parentId":0,"scrollX":1074.857142857143,"scrollY":658.2857142857142},
+{"id":4,"expanded":true,"name":"Fortress","order":5,"parentId":0,"scrollX":1062.857142857143,"scrollY":1088.5714285714284},
+null,
+{"id":6,"expanded":true,"name":"Castle 1F","order":6,"parentId":4,"scrollX":1061.142857142857,"scrollY":1007.9999999999999},
+{"id":7,"expanded":false,"name":"House 1","order":2,"parentId":2,"scrollX":1061.142857142857,"scrollY":596.5714285714286}
+]
